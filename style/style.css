@@ -183,3 +183,139 @@ Padding: 12px 20px 12px 20px;
     
   }
   
+  .my-inspiration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 150px 151px 150px 150px;
+  }
+  .my-nspiration-wrtten-part{
+    padding-left: 144px;
+    padding-right: 144px;
+  }
+  .m-i-h{
+    text-align: center;
+    padding-bottom:24px ;
+    color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+
+  }
+  .m-i-p{
+    text-align: center;
+    padding-bottom: 48px;
+    color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+
+  }
+  .iframe{
+    margin-top: 10px;
+    margin-bottom: 150px;
+ 
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+padding: 32px;
+margin-left: 150px;
+margin-right: 150px;
+
+
+
+  }
+    
+   .my-terget-container{
+    display: flex;
+    flex-direction: column;
+   }
+   .h-p-containe{
+    text-align: center;
+    padding-left: 47px;
+    padding-right: 47px;
+    border-left: 104px;
+    border: 104px;
+    margin-bottom: 10px;
+    
+
+   }
+   .h-p-containe>h2{
+    padding-bottom: 24px;
+    font-size: 32px;
+    font-weight: 800;
+    color:#0D1321;
+
+   }
+   .skill-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 48px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 110px;
+   }
+   .skill-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    margin-right:24px;
+    border-radius: 16px;
+   }
+   .skill-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+   }
+   .skill-3{
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    border-radius: 16px;
+   }
+    .skill-1>img{
+      margin-bottom: 24px;
+    }
+    .skill-1>h3{
+      margin-bottom: 8px;
+    }
+   .skill-1>p{
+    margin-bottom: 24px;
+   }
+   .skill-1>a{
+    margin-bottom: 40px;
+   }
+  
+
+   .skill-2>img{
+    margin-bottom: 24px;
+  }
+  .skill-2>h3{
+    margin-bottom: 8px;
+  }
+ .skill-2>p{
+  margin-bottom: 24px;
+ }
+ .skill-2>a{
+  margin-bottom: 40px;
+ }
+
+
+
+
+ .skill-3>img{
+  margin-bottom: 24px;
+}
+.skill-3>h3{
+  margin-bottom: 8px;
+}
+.skill-3>p{
+margin-bottom: 24px;
+}
+.skill-3>a{
+margin-bottom: 40px;
+}
