@@ -87,7 +87,7 @@ nav h4{
   text-align: center;
   margin-left: 294px;
   margin-right: 294px;
-  font-size:16;
+  font-size:16px;
   font-weight: 400;
   padding: 24px 73px 0px 24px;
 }
@@ -114,12 +114,72 @@ margin-bottom: 48px;
 margin-left: 292px;
 margin-right: 296px;
 padding: 24px 48px 47px 48px;
-color: #0D1321;
-}
-.wb-img-1{
-  display: flex;
-  justify-content: flex-start;
- 
-  
+color: #0D1321 70%;
 }
 
+.wb-sub-title-1{
+  display: flex;
+  justify-content:space-between;
+  margin-left: 148px;
+  margin-right: 152px;
+  padding: 48px;
+  border-left: 103px;
+  border-right: 103px;
+}
+.wb-t-1h{
+font-size: 24px;
+ margin-bottom: 16px;
+text-align: justify;
+color: rgba(13, 19, 33, 0.7);
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+}
+.wb-t-1p{
+font-size: 16px;
+font-weight: 400;
+text-align: justify;
+margin-right: 107px;
+color: rgb(13, 19, 33);
+line-height: 26px;
+letter-spacing: 0%;
+  
+}
+.wb-t-b1{
+margin-top: 32px;
+Font-weight:600;
+Font-size:20px;
+
+Padding: 12px 20px 12px 20px;
+}
+.rr-2{
+  display: flex;
+  justify-content:space-between;
+  margin-left:148px;
+  margin-right: 152px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  padding: 48px;
+  border-left: 97px;
+  border-right: 97px;
+}
+.wb-t-2{
+  font-size: 24px;
+   margin-bottom: 16px;
+  text-align: justify;
+  color: rgba(13, 19, 33, 0.7);
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0%;
+  }
+  .wb-t-2p{
+  font-size: 16px;
+  font-weight: 400;
+  text-align: justify;
+  margin-right: 107px;
+  color: rgb(13, 19, 33);
+  line-height: 26px;
+  letter-spacing: 0%;
+    
+  }
+  
