@@ -1,7 +1,125 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* shahead style */
 
 
+/* nav Style */
 .azeret-mono-normal {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav li a{
+  text-decoration: none;
+}
+nav ul li{
+  list-style: none;
+}
+.btn-modify{
+  padding:17px 24px;
+  border-radius: 8px;
+  margin-top: 38px;
+  margin-right: 150px;
+  margin-bottom: 36px;
+  font-size: 20px;
+  font-weight: 600;
+}
+nav h4{
+  font-size: 28px;
+  font-weight:800;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+/* baner style */
+.img-baner{
+  display: flex;
+  justify-content: center;
+  padding-top: 26px;
+  padding-bottom: 32px;
+  
+}
+.btn-modify-2{ 
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #FFFFFF;
+  align-items: center;
+  
+ 
+}
+.btn-modify-3{
+  padding: 21px 24px 21px 24px;
+ border-radius: 8px;
+ background-color: #0D1321;
+ margin-left: 598px;
+ margin-top: 32px;
+
+
+}
+.baner{
+  background-image: url(../assets/Hero-bg.png);
+  
+   max-width: 1440px;
+   min-height: 652px;
+   width: 100%;
+   background-position: cover;
+  
+}
+.baner-main-title{
+  display: flex;
+  justify-content: center;
+  margin: 32px 221px 24px 221px;
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+}
+.baner-paragraph{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: 294px;
+  margin-right: 294px;
+  font-size:16;
+  font-weight: 400;
+  padding: 24px 73px 0px 24px;
+}
+/* web-development style */
+
+.web-development>h1{
+  display: flex;
+  justify-content: center;
+  margin-top: 154px;
+  margin-left: 292px;
+  margin-right: 296px;
+  font-size: 32px;
+  font-weight: 800;
+  padding: 80 px 144px 24px 144px;
+}
+.web-development>p{
+  display: flex;
+  justify-content: center;
+text-align: center;
+align-items: center;
+font-weight: 400;
+font-size: 16px;
+margin-bottom: 48px;
+margin-left: 292px;
+margin-right: 296px;
+padding: 24px 48px 47px 48px;
+color: #0D1321;
+}
+.wb-img-1{
+  display: flex;
+  justify-content: flex-start;
+ 
+  
+}
+
