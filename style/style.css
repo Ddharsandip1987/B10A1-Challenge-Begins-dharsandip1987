@@ -104,6 +104,10 @@ letter-spacing: 0%;
   font-size:16px;
   font-weight: 400;
   padding: 24px 73px 0px 24px;
+  color: rgb(13, 19, 33,0.7);
+font-size: 16px;
+line-height: 26px;
+
 }
 
 
@@ -119,7 +123,11 @@ margin-left: 292px;
 margin-right: 296px;
 font-size: 32px;
 font-weight: 800;
-padding: 80 px 144px 24px 144px;
+padding: 80px 144px 24px 144px;
+color: rgb(13, 19, 33);
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
 }
 
 .web-development>p{
@@ -149,21 +157,22 @@ border-right: 103px;
 .wb-t-1h{
 font-size: 24px;
 margin-bottom: 16px;
-text-align: justify;
 color: rgba(13, 19, 33, 0.7);
 font-weight: 700;
 line-height: 36px;
 letter-spacing: 0%;
+text-align: center;
 }
 
 .wb-t-1p{
 font-size: 16px;
 font-weight: 400;
-text-align: justify;
+opacity: 0.7;
 margin-right: 107px;
 color: rgb(13, 19, 33);
 line-height: 26px;
 letter-spacing: 0%;
+text-align: center;
 }
 
 .wb-t-b1{
@@ -171,11 +180,16 @@ margin-top: 32px;
 Font-weight:600;
 Font-size:20px;
 Padding: 12px 20px 12px 20px;
+color: rgb(13, 19, 33);
+opacity:.7;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
 }
 
 .rr-2{
 display: flex;
-justify-content:space-between;
+ justify-content:space-between; 
 margin-left:148px;
 margin-right: 152px;
 margin-top: 32px;
@@ -183,26 +197,20 @@ margin-bottom: 32px;
 padding: 48px;
 border-left: 97px;
 border-right: 97px;
+
 }
 
-.wb-t-2{
-font-size: 24px;
- margin-bottom: 16px;
-text-align: justify;
-color: rgba(13, 19, 33, 0.7);
-font-weight: 700;
-line-height: 36px;
-letter-spacing: 0%;
-  }
 
-.wb-t-2p{
+
+.wb-t-2p{ 
 font-size: 16px;
 font-weight: 400;
 text-align: justify;
 margin-right: 107px;
-color: rgb(13, 19, 33);
+color: rgb(13, 19, 33,0.7);
 line-height: 26px;
 letter-spacing: 0%;  
+
 
 }
 
@@ -229,8 +237,8 @@ letter-spacing: 0%;
   font-weight: 800;
   line-height: 37px;
   letter-spacing: 0%;
-
   }
+
   .m-i-p{
   text-align: center;
   padding-bottom: 48px;
@@ -276,6 +284,19 @@ letter-spacing: 0%;
     font-size: 32px;
     font-weight: 800;
     color:#0D1321;
+
+
+   }
+   .h-p-containe>p{
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+
    }
 
    .skill-container{
@@ -314,14 +335,37 @@ letter-spacing: 0%;
 
     .skill-1>h3{
       margin-bottom: 8px;
+      color: rgb(13, 19, 33);
+
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
     }
 
    .skill-1>p{
     margin-bottom: 24px;
+
+    color: rgb(13, 19, 33,0.7);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
    }
 
    .skill-1>a{
     margin-bottom: 40px;
+    color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
    }
   
    .skill-2>img{
@@ -330,14 +374,36 @@ letter-spacing: 0%;
 
   .skill-2>h3{
     margin-bottom: 8px;
+    color: rgb(13, 19, 33);
+
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
   }
 
- .skill-2>p{
+  .skill-2>p{
   margin-bottom: 24px;
+  color: rgb(13, 19, 33,0.7);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
  }
 
  .skill-2>a{
   margin-bottom: 40px;
+  color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
  }
 
  .skill-3>img{
@@ -346,14 +412,36 @@ letter-spacing: 0%;
 
 .skill-3>h3{
   margin-bottom: 8px;
+  color: rgb(13, 19, 33);
+
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
 }
 
 .skill-3>p{
 margin-bottom: 24px;
+Color: rgb(13, 19, 33,.7);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
 }
 
 .skill-3>a{
 margin-bottom: 40px;
+color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
 }
 
 
@@ -379,6 +467,23 @@ margin-bottom: 40px;
 
 .my-next-terget>h2{
   margin-bottom: 24px;
+
+  color: rgb(13, 19, 33);
+
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.my-next-terget>p{
+
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
 }
 
 .terget-skill{
@@ -400,6 +505,13 @@ border-radius: 16px;
 
 .ts>h2{
   margin-bottom:24px ;
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+
 }
 
 .terget-skill>img{
@@ -408,11 +520,27 @@ border-radius: 16px;
 
 .ts>p{
   margin-bottom: 24px;
-  text-align: justify;
+  
+  color: rgb(13, 19, 33,0.7);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
 }
 
 .ts>a{
   margin-bottom: 40;
+
+  color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
 }
 
 
@@ -451,12 +579,28 @@ border-radius: 16px;
 
 .total-support-1>h2{
   margin-bottom: 16px;
+
+  color: rgb(255, 255, 255);
+
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
 }
 
 .total-support-1>p{
   margin-bottom: 24px;
   margin-left: 62px;
   margin-right: 62px;
+  color: rgb(255, 255, 255);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
 }
 
  .me{
@@ -474,6 +618,8 @@ line-height: 19px;
 letter-spacing: 0%;
 text-align: center;
 width: 548px;
+
+
 }
 
 .you{
@@ -524,3 +670,5 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 }
+
+/* CSS End */
